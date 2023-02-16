@@ -1,0 +1,4 @@
+from maze_generators.DepthFirstMazeGenerator import DepthFirstMazeGenerator
+from maze_generators.RecursiveDivisionMazeGenerator import RecursiveDivisionMazeGenerator
+
+(DepthFirstMazeGenerator, RecursiveDivisionMazeGenerator)
